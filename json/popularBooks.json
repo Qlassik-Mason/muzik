@@ -1,0 +1,37 @@
+[
+  {
+    "rating": "4.5",
+    "title" : "THE WATER CURE",
+    "text"  : "MARTIN HYAT",
+    "img"    : "assets/images/pic-8.png",
+    "audio"  : "Voices.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title" : "PEACE LIFE",
+    "text"  : "HAZARD BIN",
+    "img"    : "assets/images/pic-7.png",
+    "audio"  : "june - Bobby Richards.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title" : "france",
+    "text"  : "paris",
+    "img"    : "assets/images/pic-9.png",
+    "audio"  : "piano Trap.mp3"
+  },
+  {
+    "rating": "4.7",
+    "title" : "cold play",
+    "text"  : "chainsmokers",
+    "img"    : "assets/images/pic-10.png",
+    "audio"  : "just like this.mp3"
+  },
+  {
+    "rating": "4.8",
+    "title" : "Alone",
+    "text"  : "califonia dreamin",
+    "img"    : "assets/images/pic-6.png",
+    "audio"  : "franko.mp3"
+  }
+]
