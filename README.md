@@ -1,12 +1,10 @@
 # muzik
 
-A new Flutter project.
+A music app developed using flutter, the project is design to fetch music stream audio music online using minimal hardware resources and stable performance.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started when starting your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
